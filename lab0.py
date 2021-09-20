@@ -12,7 +12,7 @@ def myFunction():
         except:
             pass
     
-
+    print(sum)
     return sum
 
 
